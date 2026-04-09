@@ -25,8 +25,8 @@ class Config:
     ]
 
     # === SUPPORT ===
-    SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/")
-    SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/")
+    SUPPORT_GROUP = os.getenv("SUPPORT_GROUP", "https://t.me/devdevelopers_07")
+    SUPPORT_CHANNEL = os.getenv("SUPPORT_CHANNEL", "https://t.me/devdevelopers_07")
 
     # === COOKIES ===
     COOKIES_URL = os.getenv("COOKIES_URL", "")
