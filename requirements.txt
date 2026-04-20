@@ -1,0 +1,26 @@
+# Core - tested working combination
+pyrogram==2.0.106
+TgCrypto==1.2.5
+
+# PyTgCalls - latest stable, pure Python, NO Node.js needed
+pytgcalls==4.0.2
+
+# YouTube download
+yt-dlp
+
+# Database
+pymongo==4.6.3
+motor==3.4.0
+
+# Web/Async
+aiohttp==3.9.5
+aiofiles==23.2.1
+
+# Image/Audio
+Pillow==10.2.0
+mutagen==1.47.0
+
+# System
+psutil==5.9.8
+python-dotenv==1.0.1
+apscheduler==3.10.4
